@@ -4,8 +4,8 @@
 
 The designs were created to the following widths:
 
-- Mobile: 375px
-- Desktop: 1440px
+-   Mobile: 375px
+-   Desktop: 1440px
 
 ## Colors
 
@@ -25,17 +25,17 @@ Vary Light Gray: hsl(0, 0%, 98%)
 
 ### Body Copy
 
-- Font size: 16px
+-   Font size: 16px
 
 ### Font
 
-- Family: [Be Vietnam Pro](https://fonts.google.com/specimen/Be+Vietnam+Pro)
-- Weights: 400, 500, 700
+-   Family: [Be Vietnam Pro](https://fonts.google.com/specimen/Be+Vietnam+Pro)
+-   Weights: 400, 500, 700
 
 ## Icons
 
 For the social icons, you can use the icons provided or a font icon library. Some suggestions for font icon libraries can be found below:
 
-- [Font Awesome](https://fontawesome.com)
-- [IcoMoon](https://icomoon.io)
-- [Ionicons](https://ionicons.com)
+-   [Font Awesome](https://fontawesome.com)
+-   [IcoMoon](https://icomoon.io)
+-   [Ionicons](https://ionicons.com)
