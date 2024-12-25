@@ -27,8 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./designs/desktop-preview.jpg]
-
+![](./designs/desktop-preview.jpg)
 ### Links
 
 -   Solution URL: [Add solution URL here](https://github.com/RaviHamidov/ManageLandingPage)
