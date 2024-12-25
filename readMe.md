@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./\_designs/desktop-preview.jpg]
+![](./designs/desktop-preview.jpg]
 
 ### Links
 
