@@ -44,7 +44,5 @@ Users should be able to:
 
 ## Author
 
--   Website - [TheHamidov42](thehamidov42.herokuapp.com)
--   Frontend Mentor - [@RaviHamidov](https://www.frontendmentor.io/profile/@RaviHamidov)
--   Twitter - [@RaviHamidov](https://www.twitter.com/@RaviHamidov)
--   Instagram - [@RaviHamidov](https://www.instagram.com/ravihamidov/)
+-   Frontend Mentor - [Ravi Hamidov](https://www.frontendmentor.io/profile/@RaviHamidov)
+-   Instagram - [The Legend](https://www.instagram.com/ravihamidov/)
